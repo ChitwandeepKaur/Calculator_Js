@@ -56,6 +56,10 @@ const snake={ //snake object
         if(food.x === headX && food.y === headY){ //when snake eats the food
             food = getRandomFood();
             score++;
+            if (highscore < score) {
+                highscore = score
+                localStorage.setItem("highscore", highscore);
+            }
         }
         else{
             this.cells.shift();
@@ -153,11 +157,6 @@ function draw(){
         pen.fillStyle='#B8405E';
         pen.fillText('Game Over',20,80);
         clearInterval(id);
-        if (highscore < score) {
-            highscore = score
-            localStorage.setItem("highscore", highscore);
-        }
-        // if(highscore = "null") highscore = '0';
         
         return; //if return statement is not added then this if condition won't work
     }
