@@ -1,8 +1,3 @@
-/* 
-Try to add these features
-1. Start, play, pause, reset game
-2. Difficulty level set
-*/
 
 const canvas = document.getElementById('canvas');
 const pen = canvas.getContext('2d');
