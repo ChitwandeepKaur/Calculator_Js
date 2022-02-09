@@ -1,0 +1,41 @@
+.heading{
+    /* width: 40vw; */
+    font-family: 'Press Start 2P', cursive;
+    font-size: 1.75rem;
+    color: white;
+    text-align: center;
+}
+
+body{
+    background-color: #041C32;
+}
+
+.btn:hover{
+    background-color: #90e0ef;
+}
+
+#showMoviesHere{
+    width: 80vw
+}
+
+img{
+    border-radius: 5%;
+    border: 3px solid #406882;
+    margin-bottom: 10%;
+}
+
+img:hover{
+    cursor: pointer;
+}
+i{
+    color: white;
+    margin: 3% 2%;
+}
+span{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    width: 15vw;
+}
