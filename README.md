@@ -9,3 +9,6 @@ My own little collection of web development projects made using HTML, CSS, Javas
 
 3. <em><strong>Snake Game</strong></em> - 
   A fun snake game made using HTML, CSS and Javascript. In snake game we have a digital snake that we control using arrow keys. Random food is generated for the snake and the     goal is to make the snake eat the food. The snake grows in size when the snake eats the food. The objective of the game is to make the snake as long as possible. If thesnake   collides with itself or the walls of the game, the game is ended. Have fun playing the game and beating your own HighScore!
+
+4. <em><strong>Dice Game</strong></em> - 
+  A fun webApp made using HTML, CSS and Javascript that creates a brand new set of dies every time the user refreshes the page and announces the winner for you.
