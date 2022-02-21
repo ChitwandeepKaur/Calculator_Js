@@ -1,0 +1,36 @@
+h1{
+    font-size: 4.5rem;
+    width: fit-content;
+    font-family: 'Carter One', cursive;
+    text-shadow: 2px 2px 2px #CA965C;
+}
+body{
+    text-align: center;
+    background-color: #041C32;
+    color: #A3E4DB;
+}
+
+.footer{
+    width: 40%;
+}
+
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.img1,.img2{
+    width: 70%;
+}
+.dice p, .footer p{
+    font-size: 1.75rem;
+    font-family: 'Akaya Telivigala', cursive;
+}
+.instructions{
+    font-family: 'Gideon Roman', cursive;
+    font-size: 1.2rem;
+}
+.dice{
+    display: inline-block;
+}
