@@ -12,3 +12,6 @@ My own little collection of web development projects made using HTML, CSS, Javas
 
 4. <em><strong>Dice Game</strong></em> - 
   A fun webApp made using HTML, CSS and Javascript that creates a brand new set of dies every time the user refreshes the page and announces the winner for you.
+
+5. <em><strong>Simon Game Challenge</strong></em> - 
+  This game is a simple project made using HTML, CSS, jQuery and Javascript. You can press any key to start the game and it will show you a tile to click on. As you go on from   level to level, the patterns get more complicated! If you fail, the game stops and you can press any key to restart the game.
