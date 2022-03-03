@@ -1,5 +1,5 @@
 # Web_Development_Projects
-My own little collection of web development projects made using HTML, CSS, Javascript
+My own little collection of web development projects made using different Web Technologies.
 
 1. <em><strong>Calculator</strong></em> - 
   An interactive calculator made using HTML, CSS and Javascript. Use the simple interface to enter your mathematical query and hit the '=' symbol to get your answer. This         calculator performs operations like +, -, *, / and %.
