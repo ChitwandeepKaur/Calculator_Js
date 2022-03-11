@@ -15,3 +15,6 @@ My own little collection of web development projects made using different Web Te
 
 5. <em><strong>Simon Game Challenge</strong></em> - 
   This game is a simple project made using HTML, CSS, jQuery and Javascript. You can press any key to start the game and it will show you a tile to click on. As you go on from   level to level, the patterns get more complicated! If you fail, the game stops and you can press any key to restart the game.
+  
+6. <em><strong>A Weather App</strong></em> - 
+  A weather app made using APIs and other technologies like HTML, CSS and Javascript that allows you to find the current weather of the city entered alongside the current day's   time and date, time of sunrise and sunset in the city, pressure and current humidity levels.
