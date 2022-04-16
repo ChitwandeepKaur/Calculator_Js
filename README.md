@@ -21,3 +21,6 @@ My own little collection of web development projects made using different Web Te
 
 7. <em><strong>Guess my number</strong></em> - 
   A fun little game in which you have to guess a random number generated between the range of 1 to 20. You have a total of 15 attempts to do but if you fail you can always try again!
+
+8. <em><strong>Modal Window</strong></em> - 
+  A project to display modal windows when the user clicks on the specific buttons and to close them when either the close button is clicked on, or the user clicks anywhere otuside the modal window or when the <code>Esc</code> key is hit
