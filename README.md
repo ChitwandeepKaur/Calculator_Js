@@ -18,3 +18,6 @@ My own little collection of web development projects made using different Web Te
   
 6. <em><strong>A Weather App</strong></em> - 
   A weather app made using APIs and other technologies like HTML, CSS and Javascript that allows you to find the current weather of the city entered alongside the current day's   time and date, time of sunrise and sunset in the city, pressure and current humidity levels.
+
+7. <em><strong>Guess my number</strong></em> - 
+  A fun little game in which you have to guess a random number generated between the range of 1 to 20. You have a total of 15 attempts to do but if you fail you can always try again!
